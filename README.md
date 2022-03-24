@@ -4,9 +4,7 @@
 
 **Play Here**
 
-https://perice-pope.github.io/memory-game-vanillajs/
-
-**Hippie Hangman**
+<https://perice-pope.github.io/memory-game-vanillajs/>
 
 Classic card game we all know as memory! Flip the card to see what frameworks you can remember!  
 
@@ -16,11 +14,10 @@ Classic card game we all know as memory! Flip the card to see what frameworks yo
 * HTML5
 * CSS3
 
-
 **Future Development**
 
-* Winner Message 
+* Winner Message
 * Different levels with new images!  
 * Clicking sounds  
 * Cool mouse graphics  
-* guess countdown 
+* guess countdown
